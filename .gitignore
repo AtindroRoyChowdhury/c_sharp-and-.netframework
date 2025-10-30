@@ -1,0 +1,17 @@
+# Visual Studio build files
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+*.exe
+*.dll
+*.cache
+*.log
+
+# OS files
+Thumbs.db
+*.DS_Store
+
+# Temporary
+.vs/
